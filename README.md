@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to use an **Ultrasonic Sensor (HC-SR04)** with an **Arduino Uno** to measure distance and provide visual feedback using **LEDs**.
 
-![ghgh]()
+![ghgh](image/ultrasonic.png)
 
 The LEDs act as indicators:
 - Green → Object is far
